@@ -46,7 +46,7 @@
 
 
 
-ELECT * FROM tbl1 WHERE 
+SELECT * FROM tbl1 WHERE 
   K0 <> 'A' 
   AND K0 <> 'B' 
   AND c13 <> 200 
